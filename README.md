@@ -9,5 +9,6 @@ This application is intended to demonstrate my understanding of how Core Data wo
 
 <img src="https://i.postimg.cc/x8mq93B1/New-Project-3.png" width=240 height=480></img>
 <img src="https://i.postimg.cc/Bvhjp6x4/New-Project.png" width=240 height=480></img>
+
 <img src="https://i.postimg.cc/3RddcTBp/New-Project-1.png" width=240 height=480></img>
 <img src="https://i.postimg.cc/TwFp847s/New-Project-2.png" width=240 height=480></img>
